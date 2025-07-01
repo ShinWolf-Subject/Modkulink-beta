@@ -35,7 +35,7 @@
                 score = 0;
                 direction = 'right';
                 nextDirection = 'right';
-                speed = 140;
+                speed = 157;
                 
                 scoreDisplay.textContent = `Skor: ${score}`;
                 gameOverDisplay.style.display = 'none';
